@@ -30,13 +30,11 @@ I excel at integrating modern technologies such as **Java** and **Django** to de
 
 ### Databases:
   - ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) **MySQL**
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**
 
 ### Tools & Technologies:
   - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**, **GitHub**
   - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
   - ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) **Postman** (API Testing)
-  - ![CI/CD](https://img.icons8.com/ios/50/000000/continuous-integration.png) **CI/CD** (Learning)
 
 ## 📈 GitHub Stats
 ![Amos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amos-mathu&show_icons=true&theme=tokyonight&hide_title=false)
@@ -46,7 +44,7 @@ I excel at integrating modern technologies such as **Java** and **Django** to de
 ## 📫  Let's Collaborate
 I’m always open to collaborating on meaningful, impactful, and innovative projects —Feel free to reach out and let's create impactful digital experiences together!
 
-- LinkedIn: [George Kamunge](https://www.linkedin.com/)
+- LinkedIn: [Shammah mathu](https://www.linkedin.com/)
 - Website: [My Website](https://Amos-mathu.vercel.app/)
 - Email: [amos.mathu.0@gmail.com](mailto:amos.mathu.0@gmail.com)
 
